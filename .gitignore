@@ -132,7 +132,7 @@ Thumbs.db
 *.swo
 
 # Prisma
-/prisma/migrations
+# /prisma/migrations  # Migrations should be committed for Vercel
 
 # Local development tools
 ngrok.exe
